@@ -2,7 +2,7 @@
 
 Based on Vue.js admin template Developed by [Epicmax](https://epicmax.co/).
 In order to get the desired output as needed by the technical test I have stumbeled upon
-a framework template created by epicmax(https://github.com/epicmaxco/vuestic-admin) which happens to be exactly like the one required on the technical test. After a couple of days of reading the documentation and also learning the structure of the template I have managed to recreate the output that is needed by the test exactly the same. When you first run the project you will be sent to a landing page after you click the dashboard button you will arrive at the dashboard.
+a framework template created by epicmax(https://github.com/epicmaxco/vuestic-admin) which happens to be exactly like the one required on the technical test. After a couple of days of reading the documentation and also learning the structure of the template I have managed to recreate the output that is needed by the test (exactly the same). When you first run the project you will be sent to a landing page after you click the dashboard button you will arrive at the dashboard.
 
 ## Prerequisites:
 
@@ -17,11 +17,11 @@ Latest Chrome, Firefox, Safari, Edge, IE11+
 
 # clone the repo
 
-\$ git clone https://gitlab.com/gitskuy/tiket_test dashboard_AhmadYazid
+\$ git clone https://github.com/gitskuy/Tiket_Dashboard.git Dashboard_AhmadYazid
 
 # go into app's directory and install dependencies:
 
-\$ cd myproject
+\$ cd Dashboard_AhmadYazid
 
 \$ npm install
 
